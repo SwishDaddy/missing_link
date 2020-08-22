@@ -1,2 +1,5 @@
 # Missing Link
-The source files for the song "Missing Link". The .mp3 file is the actual song... The rest are the indivudual instrument files. I recorded this one in early 2019. 
+- The source files for the song "Missing Link".
+- The .mp3 file is the actual song... the rest are the indivudual instrument files. 
+- I recorded this one in early 2019. 
+- Enjoy!
